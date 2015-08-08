@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2013\Projects\PlayFx\PlayFx\bin\Debug\PlayFx.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\PlayFx\PlayFx\bin\Debug\PlayFx.exe
+c:\users\admin\documents\visual studio 2013\Projects\PlayFx\PlayFx\bin\Debug\PlayFx.pdb
+c:\users\admin\documents\visual studio 2013\Projects\PlayFx\PlayFx\obj\Debug\PlayFx.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\PlayFx\PlayFx\obj\Debug\PlayFx.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\PlayFx\PlayFx\obj\Debug\PlayFx.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\PlayFx\PlayFx\obj\Debug\PlayFx.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\PlayFx\PlayFx\obj\Debug\PlayFx.exe
+c:\users\admin\documents\visual studio 2013\Projects\PlayFx\PlayFx\obj\Debug\PlayFx.pdb
+c:\users\admin\documents\visual studio 2013\Projects\PlayFx\PlayFx\bin\Debug\MetroFramework.dll
